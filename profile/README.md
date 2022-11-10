@@ -1,6 +1,7 @@
+<a rel="me" href="https://mastodon.gamedev.place/@deepentertains">Mastodon</a>
 # deep Entertainment
 
-![deep Entertainment logo](images/logo.png)
+![deep Entertainment logo](/images/logo.png)
 
 Welcome to deep Entertainment.
 
